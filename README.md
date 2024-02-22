@@ -3,13 +3,13 @@
 ## 🚀 About Me
 I'm a seasoned **Full-Stack Developer & Digital Solutions Architect** with a passion for crafting innovative web and mobile solutions. With over a decade of experience in the tech industry, I specialize in bridging the gap between complex business challenges and strategic technological solutions.
 
-- 🌱 I’m currently diving deeper into **React, Svelte, Node.js**, and exploring **Cloud Technologies**.
+- 🌱 I’m currently diving deeper into **React, Svelte, Astro**, and exploring **Cloud Technologies**.
 - 💡 I love working on projects that focus on simplicity to improve users' lives and drive business growth.
 - 🤝 I'm open to collaborations on projects that aim to make a significant impact.
 
 ## 🛠 Skills
 - **Languages**: JavaScript, PHP, HTML5, CSS3
-- **Frameworks/Libraries**: React, Node.js, Next.js, Svelte, Vue.js, Express, Alpine.js
+- **Frameworks/Libraries**: React, Astro, Node.js, Next.js, Svelte, Vue.js, Express, Alpine.js, Deno
 - **CMS**: WordPress, WooCommerce
 - **Databases**: MySQL, PostgreSQL, NoSQL, SQLite
 - **Tools**: Git, Jira, Docker, CI/CD pipelines
