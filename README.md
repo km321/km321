@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi there, I'm Kyle Melton 👋
 
-<!--
-**km321/km321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a seasoned **Full-Stack Developer & Digital Solutions Architect** with a passion for crafting innovative web and mobile solutions. With over a decade of experience in the tech industry, I specialize in bridging the gap between complex business challenges and strategic technological solutions.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently diving deeper into **React, Node.js**, and exploring **Cloud Technologies**.
+- 💡 I love working on projects that improve users' lives and drive business growth.
+- 🤝 I'm open to collaborations on projects that aim to make a significant impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Languages**: JavaScript, PHP, HTML5, CSS3
+- **Frameworks/Libraries**: React, Node.js, Next.js, Svelte, Vue.js, Express, Alpine.js
+- **CMS**: WordPress, WooCommerce
+- **Databases**: MySQL, PostgreSQL, NoSQL, SQLite
+- **Tools**: Git, Jira, Docker, CI/CD pipelines
+- **Concepts**: RESTful API design, Progressive Web Apps, Mobile App Development, Custom WordPress Themes
+
+## 📫 How to Reach Me
+- **LinkedIn**: [View LinkedIn profile](https://www.linkedin.com/in/kylenmelton/)
+- **Email**: [Email Me](mailto:kyle@meltonstudios.com)
+
+## 💼 Past Projects
+- **API Server Integration**: Developed a robust API server to streamline data processing and enhance system efficiency.
+- **Video Streaming Platform**: Led the creation of a video streaming service, improving content delivery and user engagement.
+- **PWA for Field Management**: Designed a Progressive Web App to assist with construction project management and field operations.
+
+I'm always looking to grow, learn, and explore new opportunities in technology. Let's connect and build something great together!
+
