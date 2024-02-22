@@ -10,7 +10,7 @@ I'm a seasoned **Full-Stack Developer & Digital Solutions Architect** with a pas
 ## 🛠 Skills
 - **Languages**: JavaScript, PHP, HTML5, CSS3
 - **Frameworks/Libraries**: React, Astro, Node.js, Next.js, Svelte, Vue.js, Express, Alpine.js, Deno
-- **CMS**: WordPress, WooCommerce
+- **CMS**: WordPress, WooCommerce, Headless
 - **Databases**: MySQL, PostgreSQL, NoSQL, SQLite
 - **Tools**: Git, Jira, Docker, CI/CD pipelines
 - **Concepts**: RESTful API design, Progressive Web Apps, Mobile App Development, Custom WordPress Themes
