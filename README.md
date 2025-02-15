@@ -19,10 +19,5 @@ I'm a seasoned **Freelance Full-Stack Developer** with a passion for crafting we
 - **LinkedIn**: [View LinkedIn profile](https://www.linkedin.com/in/kylenmelton/)
 - **Email**: [Email Me](mailto:kyle@meltonstudios.com)
 
-## 💼 Past Projects
-- **API Server Integration**: Developed a robust API server to streamline data processing and enhance system efficiency.
-- **Video Streaming Platform**: Led the creation of a video streaming service, improving content delivery and user engagement.
-- **PWA for Field Management**: Designed a Progressive Web App to assist with construction project management and field operations.
-
 I'm always looking to grow, learn, and explore new opportunities in technology. Let's connect and build something great together!
 
