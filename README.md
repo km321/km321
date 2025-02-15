@@ -9,7 +9,7 @@ I'm a seasoned **Freelance Full-Stack Developer** with a passion for crafting we
 
 ## 🛠 Skills
 - **Languages**: JavaScript, PHP, HTML5, CSS3
-- **Frameworks/Libraries**: React, Astro, Node.js, Next.js, Svelte, Vue.js, Express, Alpine.js, Deno
+- **Frameworks/Libraries**: React, Astro, Node.js, Next.js, Svelte, Vue.js, Express, Alpine.js, Deno, Laravel
 - **CMS**: WordPress, WooCommerce, Headless
 - **Databases**: MySQL, PostgreSQL, NoSQL, SQLite, Convex
 - **Tools**: Git, VS Code, Zed, MacOS
