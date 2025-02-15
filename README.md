@@ -1,7 +1,7 @@
 # Hi there, I'm Kyle Melton 👋
 
 ## 🚀 About Me
-I'm a seasoned **Full-Stack Developer & Digital Solutions Architect** with a passion for crafting innovative web and mobile solutions. With over a decade of experience in the tech industry, I specialize in bridging the gap between complex business challenges and strategic technological solutions. I primarily work on private projects for agencies & startups.
+I'm a seasoned **Freelance Full-Stack Developer** with a passion for crafting web and mobile solutions. With over a decade of experience in the tech industry, I specialize in bridging the gap between complex business challenges and strategic technological solutions. I primarily work on private projects for agencies & startups.
 
 - 🌱 I’m currently diving deeper into **React, Svelte, Astro**, and exploring **Cloud Technologies**.
 - 💡 I love working on projects that focus on simplicity to improve users' lives and drive business growth.
@@ -11,7 +11,7 @@ I'm a seasoned **Full-Stack Developer & Digital Solutions Architect** with a pas
 - **Languages**: JavaScript, PHP, HTML5, CSS3
 - **Frameworks/Libraries**: React, Astro, Node.js, Next.js, Svelte, Vue.js, Express, Alpine.js, Deno
 - **CMS**: WordPress, WooCommerce, Headless
-- **Databases**: MySQL, PostgreSQL, NoSQL, SQLite
+- **Databases**: MySQL, PostgreSQL, NoSQL, SQLite, Convex
 - **Tools**: Git, VS Code, Zed, MacOS
 - **Concepts**: RESTful API design, Progressive Web Apps, Mobile App Development, Custom WordPress Themes
 
